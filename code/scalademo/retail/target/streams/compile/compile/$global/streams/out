@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mF:\DataScience\spark\research\code\scalademo\retail\src\main\scala\DailyRevenue.scala:4:15: ':' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m def main(args.Array[String]) = {[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
