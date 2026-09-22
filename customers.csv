@@ -1,0 +1,6 @@
+customer_id,name,email,age,purchase_amount
+1,Alice Johnson,alice@email.com,25,150.50
+2,Bob Smith,bob@email.com,32,200.00
+3,Charlie Brown,charlie@email.com,29,75.00
+4,Diana Prince,diana@email.com,40,120.00
+5,Evan Davis,evan@email.com,35,90.00
